@@ -17,3 +17,6 @@ The data wrangling process was conducted using Python and addresses real world d
 
 ## Future Work and Next Steps
 The dataset is now fully cleaned and formatted. The next phase of this project involves exploring basic predictive models to analyze exoplanet candidates based on the engineered feature set.
+
+## Data Source
+The raw dataset used in this project is publicly available and was obtained from the Kepler Exoplanet Search Results on Kaggle.
